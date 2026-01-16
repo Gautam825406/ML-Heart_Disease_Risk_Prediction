@@ -22,23 +22,20 @@ The project demonstrates the complete ML workflow — data analysis, preprocessi
 ---
 
 ## 📂 Project Structure
-HeartdiseaseFinal.ipynb # Data analysis, preprocessing & training
-app.py # Flask app for prediction
-knn_heart_model.pkl # Trained ML model
-heart_scaler.pkl # Feature scaler
-heart_columns.pkl # Feature order reference
-requirements.txt # Dependencies
+HeartdiseaseFinal.ipynb 
+# Data analysis, preprocessing & training app.py 
+# Flask app for prediction
+knn_heart_model.pkl 
+# Trained ML model
+heart_scaler.pkl 
+# Feature scaler
+heart_columns.pkl 
+# Feature order reference
+requirements.txt 
+# Dependencies
 
-yaml
-Copy code
 
----
 
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python app.py
-Open: http://127.0.0.1:5000/
 
 🛠 Tech Stack
 Python | Pandas | NumPy | Scikit-learn | Flask | Jupyter Notebook

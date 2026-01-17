@@ -26,21 +26,6 @@ The KNN model was selected due to its simplicity and effectiveness in classifica
 
 ---
 
-## 📂 Project Structure
-HeartDiseasePrediction/
-│
-├── HeartdiseaseFinal.ipynb      # EDA, preprocessing, feature engineering & model training
-├── app.py                       # Flask application for real-time prediction
-├── knn_heart_model.pkl          # Trained KNN model
-├── heart_scaler.pkl             # StandardScaler used during training
-├── heart_columns.pkl            # Feature order reference for inference
-├── requirements.txt             # Project dependencies
-
-
-
-
----
-
 ## 🛠 Tech Stack
 - **Programming Language:** Python  
 - **Data Analysis:** Pandas, NumPy  
